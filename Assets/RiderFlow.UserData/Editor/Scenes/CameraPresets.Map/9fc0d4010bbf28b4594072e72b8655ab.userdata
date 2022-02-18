@@ -1,0 +1,28 @@
+{
+  "06d044b786c5fab4896c489869768cb4": {
+    "sceneGuid": "9fc0d4010bbf28b4594072e72b8655ab",
+    "uniqueCameraId": "06d044b786c5fab4896c489869768cb4",
+    "name": "Front",
+    "pointX": 34.0,
+    "pointY": 34.0,
+    "pointZ": 0.0,
+    "directionX": -0.0168080125,
+    "directionY": -0.01014337,
+    "directionZ": 0.000169762163,
+    "directionW": -0.999821067,
+    "zoom": 40.530117
+  },
+  "bc5935c906908514c9ce3c095d7e01af": {
+    "sceneGuid": "9fc0d4010bbf28b4594072e72b8655ab",
+    "uniqueCameraId": "bc5935c906908514c9ce3c095d7e01af",
+    "name": "Perspective",
+    "pointX": 34.0,
+    "pointY": 34.0,
+    "pointZ": 0.0,
+    "directionX": 0.150322586,
+    "directionY": 0.2819396,
+    "directionZ": -0.04477631,
+    "directionW": 0.946524143,
+    "zoom": 45.32237
+  }
+}

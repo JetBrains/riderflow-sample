@@ -1,0 +1,28 @@
+{
+  "4309c1292f33c78469b8578ae4240b2b": {
+    "sceneGuid": "7487738df6a8e814e882aebd5afd3f18",
+    "uniqueCameraId": "4309c1292f33c78469b8578ae4240b2b",
+    "name": "Start location",
+    "pointX": -4.657773,
+    "pointY": -13.675148,
+    "pointZ": 21.2388344,
+    "directionX": -0.288827181,
+    "directionY": 0.406780332,
+    "directionZ": -0.137321174,
+    "directionW": -0.8558107,
+    "zoom": 19.82413
+  },
+  "88952258ffe00fa48952e4498ce564bf": {
+    "sceneGuid": "7487738df6a8e814e882aebd5afd3f18",
+    "uniqueCameraId": "88952258ffe00fa48952e4498ce564bf",
+    "name": "Hill view",
+    "pointX": 56.93975,
+    "pointY": 7.342787,
+    "pointZ": 38.2296371,
+    "directionX": -0.194651738,
+    "directionY": -0.5288879,
+    "directionZ": 0.126030654,
+    "directionW": -0.8164957,
+    "zoom": 6.86900043
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-422720568-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-422720568-0",
+    "SectionColorRed": 0.2924528,
+    "SectionColorGreen": 0.20830366,
+    "SectionColorBlue": 0.20830366,
+    "AssetGUID": "7487738df6a8e814e882aebd5afd3f18",
+    "UniqueItemID": "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-422720568-0"
+  },
+  "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-1559835615-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-1559835615-0",
+    "SectionColorRed": 0.6320754,
+    "SectionColorGreen": 0.146092921,
+    "SectionColorBlue": 0.146092921,
+    "AssetGUID": "7487738df6a8e814e882aebd5afd3f18",
+    "UniqueItemID": "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-1559835615-0"
+  },
+  "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-109185152-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-109185152-0",
+    "SectionColorRed": 0.6226415,
+    "SectionColorGreen": 0.552754164,
+    "SectionColorBlue": 0.161534369,
+    "AssetGUID": "7487738df6a8e814e882aebd5afd3f18",
+    "UniqueItemID": "GlobalObjectId_V1-2-7487738df6a8e814e882aebd5afd3f18-109185152-0"
+  }
+}
